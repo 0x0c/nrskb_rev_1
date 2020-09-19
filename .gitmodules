@@ -1,0 +1,15 @@
+[submodule "KiCad/Keebio-Parts.pretty"]
+	path = KiCad/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
+[submodule "KiCad/keebio-components"]
+	path = KiCad/keebio-components
+	url = https://github.com/keebio/keebio-components.git
+[submodule "vsrKiCad"]
+	path = vsrKiCad
+	url = https://github.com/VisorRing/vsrKiCad.git
+[submodule "Kicad/vsrKiCad"]
+	path = Kicad/vsrKiCad
+	url = https://github.com/VisorRing/vsrKiCad.git
+[submodule "KiCad/MX_Alps_Hybrid"]
+	path = KiCad/MX_Alps_Hybrid
+	url = https://github.com/CaninoDev/MX_Alps_Hybrid.git

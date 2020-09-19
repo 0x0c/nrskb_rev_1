@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name keebio)(type Legacy)(uri C:/Users/akira/Documents/KiCad/keebio-components/keebio.lib)(options "")(descr ""))
+  (lib (name keyboard-layouter-playground-rescue)(type Legacy)(uri ${KIPRJMOD}/keyboard-layouter-playground-rescue.lib)(options "")(descr ""))
+)

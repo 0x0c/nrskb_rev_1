@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name Button_Switch_Keyboard)(type KiCad)(uri ${KIPRJMOD}/kicad-footprints/Button_Switch_Keyboard.pretty)(options "")(descr ""))
+  (lib (name Diode_SMD)(type KiCad)(uri ${KIPRJMOD}/kicad-footprints/Diode_SMD.pretty)(options "")(descr ""))
+  (lib (name vsrAkizuki)(type KiCad)(uri C:/Users/akira/Documents/KiCad/vsrKiCad/footprint/vsrAkizuki.pretty)(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri C:/Users/akira/Documents/KiCad/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri C:/Users/akira/Documents/KiCad/MX_Alps_Hybrid_HotSwap/MX_Only.pretty)(options "")(descr ""))
+  (lib (name keyboard_parts)(type KiCad)(uri C:/Users/akira/Documents/KiCad/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name MountingHole)(type KiCad)(uri ${KIPRJMOD}/MountingHole.pretty)(options "")(descr ""))
+)
