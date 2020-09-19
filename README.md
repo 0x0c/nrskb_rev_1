@@ -8,3 +8,6 @@ Use [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/df1fd
 
 ## Build Firmware
 Use [Keyboard Firmware Builder](https://kbfirmware.com) and load `nsrkbrev1.json`.
+
+## Acknowledgement
+- [yskoht/keyboard-layouter](https://github.com/yskoht/keyboard-layouter)
