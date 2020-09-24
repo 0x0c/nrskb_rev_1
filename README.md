@@ -15,4 +15,4 @@ Use [Keyboard Firmware Builder](https://kbfirmware.com) and load `nsrkbrev1.json
 
 ## Note
 
-https://zenn.dev/0x0c/articles/4e4e428d79287d4556b2
+- [1行もコードを書かずに自作キーボードを作る](https://zenn.dev/0x0c/articles/4e4e428d79287d4556b2)
