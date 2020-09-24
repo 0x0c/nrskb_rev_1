@@ -12,3 +12,7 @@ Use [Keyboard Firmware Builder](https://kbfirmware.com) and load `nsrkbrev1.json
 
 ## Acknowledgement
 - [yskoht/keyboard-layouter](https://github.com/yskoht/keyboard-layouter)
+
+## Note
+
+https://zenn.dev/0x0c/articles/4e4e428d79287d4556b2
